@@ -1,0 +1,6 @@
+git stash
+git stash list
+git stash apply
+git stash apply@{0}
+git stash drop remove
+git stash pop remove and apply
